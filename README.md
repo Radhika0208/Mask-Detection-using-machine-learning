@@ -15,21 +15,22 @@
 
 <div>
 <h1> Data Source: Image
+ <hr>
   <p float="left">
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/mask.jpg" alt="Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/half mask 1.jpg" alt="half Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/nomask 1.jpg" alt="no Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/no mask 2.jpg" alt="no Mask" width="450" />
   </p>
- <hr>
+
   
   <h1> Data Source: Live Video Streaming
+  <hr>
     <p float="left">
       <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live mask.jpg" alt="Mask" width="450" />
       <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live half mask.jpg" alt="half Mask" width="450" />
       <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live no mask.jpg" alt="no Mask" width="450" />
     </p>
-   <hr>
 </div>
 
 * With the help of the control panel we can change the parameters of the Haar Cascade to detect the face, nose and mouth in a frame.
