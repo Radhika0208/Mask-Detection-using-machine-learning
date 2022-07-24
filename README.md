@@ -4,7 +4,7 @@
 
 <div>
 <p float="center">
-  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/main.png" alt="Main page" width="400" />
+  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/main.jpg" alt="Main page" width="400" />
 </p>
 </div>
 
@@ -15,9 +15,19 @@
 
 <div>
 <p float="left">
-  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/mask.png" alt="Mask" width="450" />
-  <img src="" width="450" />
-  <img src="" width="450" />
+  <p> Data Source = Image
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/mask.jpg" alt="Mask" width="450" />
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/half mask 1.jpg" alt="half Mask" width="450" />
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/nomask 1.jpg" alt="no Mask" width="450" />
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/no mask 2.jpg" alt="no Mask" width="450" />
+  </p>
+  
+  
+  <p> Data Source = Live Video Streaming
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live mask.jpg" alt="Mask" width="450" />
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live half mask.jpg" alt="half Mask" width="450" />
+    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live no mask.jpg" alt="no Mask" width="450" />
+  </p>
 </p>
 </div>
 
@@ -25,7 +35,7 @@
 
 <div>
 <p float="center">
-  <img src="" width="350" />
+  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/scale.jpg" alt="Scale" width="350" />
 </p>
 </div>
 
