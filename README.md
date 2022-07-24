@@ -4,18 +4,18 @@
 
 <div>
 <p float="center">
-  <img src="" width="400" />
+  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/main.png" alt="Main page" width="400" />
 </p>
 </div>
 
 * For the calculation and representation it uses OpenCV.
 * For the GUI of the program it uses Tkinter.
 * To detect face, nose and mouth in a frame it uses Haar Cascade.
-* Based on the features identified in a frame it concludes if the person has worn Half Mask, No Mask or Full Mask. The features over here are nose and mouth.
+* Based on the features identified in a frame it concludes if the person is wearing Half Mask, Full Mask or NO Mask. The features selected for this are nose and mouth.
 
 <div>
 <p float="left">
-  <img src="" width="450" />
+  <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/mask.png" alt="Mask" width="450" />
   <img src="" width="450" />
   <img src="" width="450" />
 </p>
