@@ -14,21 +14,22 @@
 * Based on the features identified in a frame it concludes if the person is wearing Half Mask, Full Mask or NO Mask. The features selected for this are nose and mouth.
 
 <div>
-<p float="left">
-  <h1> Data Source: Image
+<h1> Data Source: Image
+  <p float="left">
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/mask.jpg" alt="Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/half mask 1.jpg" alt="half Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/nomask 1.jpg" alt="no Mask" width="450" />
     <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/no mask 2.jpg" alt="no Mask" width="450" />
-  <hr>
-  
-  
-  <p> Data Source: Live Video Streaming
-    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live mask.jpg" alt="Mask" width="450" />
-    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live half mask.jpg" alt="half Mask" width="450" />
-    <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live no mask.jpg" alt="no Mask" width="450" />
   </p>
-</p>
+ <hr>
+  
+  <h1> Data Source: Live Video Streaming
+    <p float="left">
+      <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live mask.jpg" alt="Mask" width="450" />
+      <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live half mask.jpg" alt="half Mask" width="450" />
+      <img src="Mask-Detection-using-machine-learning/mask_detection/working screen shoots/live no mask.jpg" alt="no Mask" width="450" />
+    </p>
+   <hr>
 </div>
 
 * With the help of the control panel we can change the parameters of the Haar Cascade to detect the face, nose and mouth in a frame.
